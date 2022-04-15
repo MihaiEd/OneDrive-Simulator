@@ -1,0 +1,2 @@
+﻿Network.lib(TcpSocket.obj) : warning LNK4099: PDB 'Network.pdb' was not found with 'Network.lib(TcpSocket.obj)' or at 'C:\Users\mihai\Documents\project-onedrive\oneDrive\x64\Debug\Network.pdb'; linking object as if no debug info
+  Server.vcxproj -> C:\Users\mihai\Documents\project-onedrive\oneDrive\x64\Debug\Server.exe
